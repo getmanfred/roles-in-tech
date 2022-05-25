@@ -23,7 +23,7 @@ This repository contains different roles in tech.
  * [Data Engineer](../main/Research%20Roles/Data%20Engineer.md)
  * [Security Analyst](../main/Research%20Roles/Security%20Analyst.md)
 #### Teaching Roles
- * [Technical Writer](../main/Teaching%20Roles/Technical%20Writer.md)
+ * [Trainer](../main/Teaching%20Roles/Trainer.md)
  * [Technical Writer](../main/Teaching%20Roles/Technical%20Writer.md)
 ## Want to contribute?
 Please create a pull request if you want to add stuff or something changed.
